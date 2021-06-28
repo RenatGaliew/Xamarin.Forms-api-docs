@@ -86,8 +86,8 @@
         <ReturnType>System.Double</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>Gets the radius of the top left corner.</summary>
-        <value>The radius of the top left corner.</value>
+        <summary>Gets the radius of the bottom left corner.</summary>
+        <value>The radius of the bottom left corner.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
